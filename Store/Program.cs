@@ -26,7 +26,8 @@ if (totalKostnad > 100)
     // Kolla om inten * 10 > Kronor
 }
 if (totalKostnad <100)
-    
+    int
+
 }
 
 
